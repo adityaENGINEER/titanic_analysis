@@ -50,11 +50,11 @@ ages = df["Age"].values  # NumPy array
 print("\n" + "=" * 50)
 print("NUMPY STATISTICS — AGE")
 print("=" * 50)
-print(f"  Mean Age   : {np.mean(ages):.1f}")
-print(f"  Median Age : {np.median(ages):.1f}")
-print(f"  Std Dev    : {np.std(ages):.1f}")
-print(f"  Min Age    : {np.min(ages):.0f}")
-print(f"  Max Age    : {np.max(ages):.0f}")
+print(f"   Mean Age   : {np.mean(ages):.1f}")
+print(f"   Median Age : {np.median(ages):.1f}")
+print(f"   Std Dev    : {np.std(ages):.1f}")
+print(f"   Min Age    : {np.min(ages):.0f}")
+print(f"   Max Age    : {np.max(ages):.0f}")
 
 # ── 6. PANDAS ANALYSIS ──────────────────────────────────────
 print("\n" + "=" * 50)
