@@ -13,7 +13,7 @@ import matplotlib.gridspec as gridspec
 url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 df = pd.read_csv(url)
 
-# ── 2. BASIC EXPLORATION ─────────────────────────────────────
+# ── 2. BASIC EXPLORATION
 print("=" * 50)
 print("DATASET OVERVIEW")
 print("=" * 50)
