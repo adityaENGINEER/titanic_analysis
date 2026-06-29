@@ -96,4 +96,4 @@ No manual download required.
 
 ## 🙋 Author
 
-Made by **[Your Name]** — feel free to fork, use, and improve!
+Made by **[Aditya upadhyay]** — feel free to fork, use, and improve!
