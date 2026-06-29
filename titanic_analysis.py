@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
 # ── 1. LOAD DATA ────────────────────────────────────────────
-# Titanic dataset is publicly available via a raw GitHub URL
+
 url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 df = pd.read_csv(url)
 
