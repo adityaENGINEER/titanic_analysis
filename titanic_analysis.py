@@ -8,7 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
-# ── 1. LOAD DATA ────────────────────────────────────────────
+# ── 1. LOAD DATA ───────────────────────────────────────────
 
 url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 df = pd.read_csv(url)
