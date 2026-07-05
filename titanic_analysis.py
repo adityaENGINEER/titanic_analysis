@@ -31,7 +31,7 @@ df.drop(columns=["Cabin"], inplace=True)
 print("\n✅ Missing values after cleaning:")
 print(df.isnull().sum())
 
-# ── 4. FEATURE ENGINEERING ──────────────────────────────────
+# ── 4. FEATURE ENGINEERING ─────────────────────────────────
 df["AgeGroup"] = pd.cut(
     df["Age"],
     bins=[0, 12, 18, 35, 60, 100],
