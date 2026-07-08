@@ -1,7 +1,7 @@
  # ===================================================
 #   Real-World Data Analysis: Titanic Dataset
 #   Tools: NumPy, Pandas, Matplotlib
-# ==================================================
+# =================================================
 
 import numpy as np
 import pandas as pd
